@@ -1,4 +1,5 @@
 Here Are Some Projects You Can Do To Build Your JavaScript or any other programming language skill. I will tell you about various projects that you can do to make your programming skill more strong. These are beginner-level projects just to understand things like how to utilize APIs, Design UI & how to set functionality in web and mobile application.  Build a project from scratch is a very good way to understand programming language or framework.
+Here I will talk about some projects that will help you to improve your programming skills. Projects You Can Do To Build Your programming Skills. These projects will boost your knowledge of programming language and framework if you used with language. Following are the projects you can try:
 
 Here is the list of projects you can check for both UI and logic perspective-
 
@@ -403,101 +404,54 @@ Cocktail Page
 
 Text Editors - notepad editor for formatting -d
 
-https://wordpress.com/post/neweraofcoding.wordpress.com/621
-
 Payment gateway implementation - integrating payment systems-d
-
-https://wordpress.com/post/neweraofcoding.wordpress.com/1097
 
 Browser Push Notifications
 
-https://wordpress.com/post/neweraofcoding.wordpress.com/767
-
 video play, edit programmatically
-
-https://wordpress.com/post/neweraofcoding.wordpress.com/1568
 
 show toast message - alert  msg angular - integration to other project
 
-https://wordpress.com/post/neweraofcoding.wordpress.com/1576
-
 create an offline application using the JSstore library -d
-
-https://wordpress.com/post/neweraofcoding.wordpress.com/1057
 
 Creating customisable & beautiful PDFs using jsPDF in angular-d
 
-https://wordpress.com/post/neweraofcoding.wordpress.com/960
-
 create pdf on client and server-side by using pdfmake package - integration to pdf project
-
-https://wordpress.com/post/neweraofcoding.wordpress.com/861
 
 Export Excel Data in Angular -d
 
-https://wordpress.com/post/neweraofcoding.wordpress.com/926
-
 Highlight text using mark.js library
-
-https://wordpress.com/post/neweraofcoding.wordpress.com/866
 
 Full-featured calendar npm package
 
-https://wordpress.com/post/neweraofcoding.wordpress.com/832
-
 Copy Array of Objects - immutability-helper  - npm
-
-https://wordpress.com/post/neweraofcoding.wordpress.com/799
 
 idb-keyval | npm.io | NPM package - integration to jsstore project
 
-https://wordpress.com/post/neweraofcoding.wordpress.com/797
-
 Lazy-load images With ng-defer-load library  -d
-
-https://wordpress.com/post/neweraofcoding.wordpress.com/793
 
 Moment.js npm
 
-https://wordpress.com/post/neweraofcoding.wordpress.com/781
-
 Javascript calculator
-
-https://wordpress.com/post/neweraofcoding.wordpress.com/746
 
 Tic tac toe Javascript game
 
-https://wordpress.com/post/neweraofcoding.wordpress.com/742
-
 Twitter API
-
-https://wordpress.com/post/neweraofcoding.wordpress.com/544
 
 various ways to upload files
 Three easy ways to add file upload functionality in angular project
-https://wordpress.com/post/neweraofcoding.wordpress.com/265
+
 How to upload files in angular using Cloudinary platform
-https://wordpress.com/post/neweraofcoding.wordpress.com/277
 
 How to capture the screenshot in angular using html2canvas?
 
-https://wordpress.com/post/neweraofcoding.wordpress.com/319
-
 Basic implementation of Virtual Scrolling -d
-
-https://wordpress.com/post/neweraofcoding.wordpress.com/335
 
 Browser Fingerprinting in Angular project
 
-https://wordpress.com/post/neweraofcoding.wordpress.com/330
-
 Create an email submission form in angular using the EmailJS library
 
-https://wordpress.com/post/neweraofcoding.wordpress.com/261
-
 manipulate image 
-
-https://wordpress.com/post/neweraofcoding.wordpress.com/383
 
 keyboard shortcuts implementation - idea-  getting key codes - keycode.info    add shortcuts in the application.
 
@@ -549,10 +503,6 @@ develop different types of bar code
 
 chrome extension in React -d
 
-https://github.com/reactjsdevelopment/spotify-music-search-app
-
-https://github.com/reactjsdevelopment/music-application-js
-
 https://www.youtube.com/watch?v=_vok7vixhJI  side projects
 
 https://eneajaho.me/    open source project react
@@ -565,9 +515,6 @@ https://replit.com/  learn code with AI
 
 21 Easy JavaScript Projects for Beginners (Code included!) Skillcrusht
 https://skillcrush.com/blog/projects-you-can-do-with-javascript/
-
-
-Here I will talk about some projects that will help you to improve your programming skills. Projects You Can Do To Build Your programming Skills. These projects will boost your knowledge of programming language and framework if you used with language. Following are the projects you can try:
 
 FTP Client-
 
@@ -776,5 +723,3 @@ Suggestion If you want to learn then commit it socially like sign up on Twitter 
 Example-
 
 I’m publicly committing to the 100DaysOfCode Challenge starting today! Learn More and Join me! hey @tagyourmentor #100DaysOfCode
-
-https://wordpress.com/post/neweraofcoding.wordpress.com/630
