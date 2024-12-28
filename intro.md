@@ -723,3 +723,21 @@ Suggestion If you want to learn then commit it socially like sign up on Twitter 
 Example-
 
 I’m publicly committing to the 100DaysOfCode Challenge starting today! Learn More and Join me! hey @tagyourmentor #100DaysOfCode
+
+MERN Project Ideas
+
+Social Media App
+
+Chat App
+
+E-commerce Platform
+
+Hotel Booking App
+
+Travel Log App
+
+Task Management Tool
+
+Discord Clone
+
+Bookstore Library
