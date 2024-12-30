@@ -426,7 +426,7 @@ Full-featured calendar npm package
 
 Copy Array of Objects - immutability-helper  - npm
 
-idb-keyval | npm.io | NPM package - integration to jsstore project
+
 
 Lazy-load images With ng-defer-load library  -d
 
