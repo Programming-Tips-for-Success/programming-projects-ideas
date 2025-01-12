@@ -741,3 +741,14 @@ Task Management Tool
 Discord Clone
 
 Bookstore Library
+
+
+Web Scraper
+Basic Users System
+Email Sender
+Books Directory
+Real-time Chat Application
+Video Streaming Platform
+Youtube Video Downloader
+Collaborative Drawing App
+Movie Review Site
