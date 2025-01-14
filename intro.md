@@ -3,26 +3,6 @@ Here I will talk about some projects that will help you to improve your programm
 
 Here is the list of projects you can check for both UI and logic perspective-
 
-E-attendance system-
-
-Try to make an attendance system.
-
-Chatbot-
-
-To make this, your app must be deployed on the server.
-
-online examination site/App-
-
-Add questions with multiple choices
-
-Book rental system-
-
-stock management system-
-
-Pocket Calculator
-
-a chatting app like a messenger
-
 Make some sort of stripped-down Slack app.
 
  what features you must need to implement:
@@ -61,17 +41,7 @@ Server-side path: use databases, saving data to the database, reading data from 
 
 coin flip web app
 
-Random Quote Machine/Generator-
-
-Features to add-
-
-post it to Twitter.
-
 Make Unbeatable tic-tac-toe.
-
-weather app
-
-Add Temperature in both Celsius and Fahrenheit mode.
 
 Electronic Simon Game-
 
@@ -115,20 +85,6 @@ Show a user’s profile
 
 Search HN
 
-Todo App-
-
-What you will learn:
-
-Creating new tasks.
-
-Validating fields.
-
-Filtering tasks (completed, active, all).
-
-Make use of filter and reduce functions.
-
-fundamentals concepts of Javascript.
-
 A sortable drag and drop list-
 
 What you will learn:
@@ -164,14 +120,6 @@ Add the time needed.
 Have different steps with a picture for each.
 
 Store them somewhere.
-
-Pomodoro app:
-
-Enter a time  
-
-Start timer  
-
-Alert when the time is over  
 
 A meme generator:
 
@@ -285,12 +233,6 @@ Burger Builder (customization to order)
 
 Instagram Clone
 
-Python projects-
-
-  1. Website Scraping
-
- using packages including BeatifulSoup
-
  2. Dice Rolling SImulation
 
 3. Number Guessing
@@ -333,7 +275,7 @@ Tribute Page, Survey Form, Product Landing Page, Technical Documentation Page, P
 
 Palindrome Checker, Roman Numeral Converter, Caesars Cipher, Telephone Number Validator, Cash Register
 
-Random Quote Machine, Markdown Previewer, Drum Machine, JavaScript Calculator, Pomodoro Clock
+Random Quote Machine, Markdown Previewer, Drum Machine, JavaScript Calculator
 
 Bar Chart, Scatterplot Graph, Heat Map, Choropleth Map, Treemap Diagram
 
@@ -426,13 +368,9 @@ Full-featured calendar npm package
 
 Copy Array of Objects - immutability-helper  - npm
 
-
-
 Lazy-load images With ng-defer-load library  -d
 
 Moment.js npm
-
-Javascript calculator
 
 Tic tac toe Javascript game
 
@@ -742,10 +680,8 @@ Discord Clone
 
 Bookstore Library
 
-
-Web Scraper
 Basic Users System
-Email Sender
+
 Books Directory
 Real-time Chat Application
 Video Streaming Platform
