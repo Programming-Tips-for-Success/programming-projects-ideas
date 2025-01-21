@@ -688,3 +688,5 @@ Video Streaming Platform
 Youtube Video Downloader
 Collaborative Drawing App
 Movie Review Site
+
+stock management system
