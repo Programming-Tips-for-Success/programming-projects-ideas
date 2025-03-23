@@ -192,7 +192,8 @@ robot validation in Forms:
 For this, you need a registered domain  
 
 e-commerce:  
-
+E-commerce Platform**
+   - A robust and scalable e-commerce platform designed for modern businesses.
 Create a model of a simple to use, low bandwidth mobile-based (responsive) e-commerce platform in which Data is catering different for different bandwidths. 
 
 Ticket reservation system:
@@ -690,3 +691,9 @@ Collaborative Drawing App
 Movie Review Site
 
 stock management system
+
+  AI-Powered Analytics Tool**
+   - An advanced analytics tool leveraging AI to provide actionable insights.
+   
+   *Custom Mobile App**
+   - A custom mobile app solution for a leading retail company.
