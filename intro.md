@@ -3,7 +3,7 @@ Here I will talk about some projects that will help you to improve your programm
 
 Here is the list of projects you can check for both UI and logic perspective-
 
-Make some sort of stripped-down Slack app.
+->Make some sort of stripped-down Slack app.
 
  what features you must need to implement:
 
@@ -23,7 +23,7 @@ How layouts work in native.
 
 Routing for native apps.
 
-Team management app-
+->Team management app-
 
 Must implement these things:
 
@@ -39,11 +39,11 @@ Client-side path: use local storage, saving data to the local storage, reading d
 
 Server-side path: use databases, saving data to the database, reading data from the database.
 
-coin flip web app
+-> coin flip web app
 
-Make Unbeatable tic-tac-toe.
+-> Make Unbeatable tic-tac-toe.
 
-Electronic Simon Game-
+-> Electronic Simon Game-
 
 It is a game presented with a random series of button presses.
 
